@@ -1,0 +1,236 @@
+"stateName","stateAbbreviation","electoralVotes","percentReporting","winnerBopPartyId","majorParty","lastName","voteNum","votePercent"
+"Alaska","AK",3,72,"REP","REP","Trump",141470,55.5
+"Alaska","AK",3,72,"REP","DEM","Harris",102969,40.4
+"Alaska","AK",3,72,"REP","IND","Kennedy",4292,1.7
+"Alaska","AK",3,72,"REP","LIB","Oliver",2258,0.9
+"Alaska","AK",3,72,"REP","GRN","Stein",1666,0.7
+"Alaska","AK",3,72,"REP","AUR","West",850,0.3
+"Alaska","AK",3,72,"REP","CST","Terry",665,0.3
+"Alaska","AK",3,72,"REP","ASP","Sonski",501,0.2
+"Alabama","AL",9,99,"REP","REP","Trump",1456838,64.8
+"Alabama","AL",9,99,"REP","DEM","Harris",768689,34.2
+"Alabama","AL",9,99,"REP","IND","Kennedy",12015,0.5
+"Alabama","AL",9,99,"REP","IND","Oliver",4910,0.2
+"Alabama","AL",9,99,"REP","GRN","Stein",4292,0.2
+"Arkansas","AR",6,98,"REP","REP","Trump",757922,64.2
+"Arkansas","AR",6,98,"REP","DEM","Harris",395717,33.5
+"Arkansas","AR",6,98,"REP","IND","Kennedy",13220,1.1
+"Arkansas","AR",6,98,"REP","LIB","Oliver",5707,0.5
+"Arkansas","AR",6,98,"REP","GRN","Stein",4263,0.4
+"Arizona","AZ",11,70,NA,"REP","Trump",1303793,52.3
+"Arizona","AZ",11,70,NA,"DEM","Harris",1167898,46.8
+"Arizona","AZ",11,70,NA,"LIB","Oliver",11496,0.5
+"Arizona","AZ",11,70,NA,"GRN","Stein",11364,0.4
+"California","CA",54,59,"DEM","DEM","Harris",5701366,57.4
+"California","CA",54,59,"DEM","REP","Trump",3972681,40
+"California","CA",54,59,"DEM","AIP","Kennedy",107728,1.1
+"California","CA",54,59,"DEM","GRN","Stein",80020,0.8
+"California","CA",54,59,"DEM","LIB","Oliver",36861,0.4
+"Colorado","CO",10,81,"DEM","DEM","Harris",1465688,54.5
+"Colorado","CO",10,81,"DEM","REP","Trump",1156855,43
+"Colorado","CO",10,81,"DEM","UNA","Kennedy",27942,1
+"Colorado","CO",10,81,"DEM","LIB","Oliver",16910,0.6
+"Colorado","CO",10,81,"DEM","GRN","Stein",12093,0.4
+"Colorado","CO",10,81,"DEM","UTY","West",3671,0.1
+"Connecticut","CT",7,95,"DEM","DEM","Harris",939449,55.8
+"Connecticut","CT",7,95,"DEM","REP","Trump",714246,42.5
+"Connecticut","CT",7,95,"DEM","GRN","Stein",13595,0.8
+"Connecticut","CT",7,95,"DEM","IND","Kennedy",8097,0.5
+"Connecticut","CT",7,95,"DEM","LIB","Oliver",6493,0.4
+"District of Columbia","DC",3,94,"DEM","DEM","Harris",255899,90.4
+"District of Columbia","DC",3,94,"DEM","REP","Trump",18669,6.6
+"District of Columbia","DC",3,94,"DEM","IND","Kennedy",2349,0.8
+"Delaware","DE",3,99,"DEM","DEM","Harris",289585,56.6
+"Delaware","DE",3,99,"DEM","REP","Trump",214184,41.9
+"Delaware","DE",3,99,"DEM","IP","Kennedy",4633,0.9
+"Delaware","DE",3,99,"DEM","LIB","Oliver",2037,0.4
+"Florida","FL",30,99,"REP","REP","Trump",6101563,56
+"Florida","FL",30,99,"REP","DEM","Harris",4672341,42.9
+"Florida","FL",30,99,"REP","GRN","Stein",42953,0.4
+"Florida","FL",30,99,"REP","LIB","Oliver",31890,0.3
+"Georgia","GA",16,99,"REP","REP","Trump",2654306,50.7
+"Georgia","GA",16,99,"REP","DEM","Harris",2538986,48.5
+"Georgia","GA",16,99,"REP","LIB","Oliver",20619,0.4
+"Georgia","GA",16,99,"REP","GRN","Stein",18162,0.3
+"Hawaii","HI",4,90,"DEM","DEM","Harris",312384,60.6
+"Hawaii","HI",4,90,"DEM","REP","Trump",193169,37.5
+"Hawaii","HI",4,90,"DEM","GRN","Stein",4372,0.8
+"Hawaii","HI",4,90,"DEM","LIB","Oliver",2719,0.5
+"Iowa","IA",6,99,"REP","REP","Trump",924143,55.8
+"Iowa","IA",6,99,"REP","DEM","Harris",705309,42.6
+"Iowa","IA",6,99,"REP","WTP","Kennedy",13076,0.8
+"Iowa","IA",6,99,"REP","LIB","Oliver",7199,0.4
+"Idaho","ID",4,99,"REP","REP","Trump",605040,66.9
+"Idaho","ID",4,99,"REP","DEM","Harris",274821,30.4
+"Idaho","ID",4,99,"REP","IND","Kennedy",12809,1.4
+"Idaho","ID",4,99,"REP","LIB","Oliver",4462,0.5
+"Idaho","ID",4,99,"REP","GRN","Stein",2971,0.3
+"Illinois","IL",19,92,"DEM","DEM","Harris",2837488,53.4
+"Illinois","IL",19,92,"DEM","REP","Trump",2393354,45
+"Illinois","IL",19,92,"DEM","IND","Kennedy",76197,1.4
+"Indiana","IN",11,95,"REP","REP","Trump",1683960,58.6
+"Indiana","IN",11,95,"REP","DEM","Harris",1132789,39.4
+"Indiana","IN",11,95,"REP","WTP","Kennedy",28841,1
+"Indiana","IN",11,95,"REP","LIB","Oliver",20045,0.7
+"Kansas","KS",6,97,"REP","REP","Trump",736238,57.3
+"Kansas","KS",6,97,"REP","DEM","Harris",523215,40.7
+"Kansas","KS",6,97,"REP","IND","Kennedy",15601,1.2
+"Kansas","KS",6,97,"REP","LIB","Oliver",7279,0.6
+"Kentucky","KY",8,97,"REP","REP","Trump",1338318,64.5
+"Kentucky","KY",8,97,"REP","DEM","Harris",701888,33.8
+"Kentucky","KY",8,97,"REP","IND","Kennedy",16720,0.8
+"Kentucky","KY",8,97,"REP","GRN","Stein",7935,0.4
+"Kentucky","KY",8,97,"REP","LIB","Oliver",6416,0.3
+"Louisiana","LA",8,99,"REP","REP","Trump",1208233,60.2
+"Louisiana","LA",8,99,"REP","DEM","Harris",766405,38.2
+"Louisiana","LA",8,99,"REP","GRN","Stein",7136,0.4
+"Louisiana","LA",8,99,"REP","LIB","Oliver",6831,0.3
+"Louisiana","LA",8,99,"REP","WTP","Kennedy",6638,0.3
+"Louisiana","LA",8,99,"REP","JFA","West",2620,0.1
+"Massachusetts","MA",11,94,"DEM","DEM","Harris",2044691,61.1
+"Massachusetts","MA",11,94,"DEM","REP","Trump",1212895,36.2
+"Massachusetts","MA",11,94,"DEM","GRN","Stein",25049,0.7
+"Massachusetts","MA",11,94,"DEM","LIB","Oliver",17145,0.5
+"Maryland","MD",10,82,"DEM","DEM","Harris",1485253,59.9
+"Maryland","MD",10,82,"DEM","REP","Trump",920393,37.1
+"Maryland","MD",10,82,"DEM","GRN","Stein",26028,1
+"Maryland","MD",10,82,"DEM","UNA","Kennedy",24274,1
+"Maryland","MD",10,82,"DEM","LIB","Oliver",12777,0.5
+"Maine","ME",4,93,"DEM","DEM","Harris",403275,52.6
+"Maine","ME",4,93,"DEM","REP","Trump",344163,44.9
+"Maine","ME",4,93,"DEM","GRN","Stein",9041,1.2
+"Maine","ME",4,93,"DEM","LIB","Oliver",5381,0.7
+"Maine","ME",4,93,"DEM","IND","West",3252,0.4
+"Michigan","MI",15,99,"REP","REP","Trump",2799713,49.8
+"Michigan","MI",15,99,"REP","DEM","Harris",2715684,48.3
+"Michigan","MI",15,99,"REP","GRN","Stein",44634,0.8
+"Michigan","MI",15,99,"REP","NTL","Kennedy",26719,0.5
+"Michigan","MI",15,99,"REP","LIB","Oliver",22523,0.4
+"Michigan","MI",15,99,"REP","IND","West",6715,0.1
+"Minnesota","MN",10,99,"DEM","DEM","Harris",1656766,51
+"Minnesota","MN",10,99,"DEM","REP","Trump",1519112,46.8
+"Minnesota","MN",10,99,"DEM","WTP","Kennedy",24488,0.8
+"Minnesota","MN",10,99,"DEM","GRN","Stein",16722,0.5
+"Minnesota","MN",10,99,"DEM","LIB","Oliver",15657,0.5
+"Minnesota","MN",10,99,"DEM","JFA","West",3508,0.1
+"Missouri","MO",10,99,"REP","REP","Trump",1739696,58.5
+"Missouri","MO",10,99,"REP","DEM","Harris",1190903,40
+"Missouri","MO",10,99,"REP","LIB","Oliver",23759,0.8
+"Missouri","MO",10,99,"REP","GRN","Stein",16945,0.6
+"Mississippi","MS",6,77,"REP","REP","Trump",597300,61.8
+"Mississippi","MS",6,77,"REP","DEM","Harris",356452,36.9
+"Mississippi","MS",6,77,"REP","IND","Kennedy",4422,0.4
+"Mississippi","MS",6,77,"REP","LIB","Oliver",2115,0.2
+"Mississippi","MS",6,77,"REP","GRN","Stein",1520,0.1
+"Montana","MT",4,95,"REP","REP","Trump",338892,58.6
+"Montana","MT",4,95,"REP","DEM","Harris",221190,38.3
+"Montana","MT",4,95,"REP","WTP","Kennedy",11208,1.9
+"Montana","MT",4,95,"REP","LIB","Oliver",4036,0.7
+"Montana","MT",4,95,"REP","GRN","Stein",2697,0.5
+"North Carolina","NC",16,99,"REP","REP","Trump",2876141,51
+"North Carolina","NC",16,99,"REP","DEM","Harris",2685451,47.7
+"North Carolina","NC",16,99,"REP","GRN","Stein",24295,0.4
+"North Carolina","NC",16,99,"REP","LIB","Oliver",21780,0.4
+"North Carolina","NC",16,99,"REP","JFA","West",11863,0.2
+"North Dakota","ND",3,99,"REP","REP","Trump",246033,67.2
+"North Dakota","ND",3,99,"REP","DEM","Harris",112061,30.6
+"North Dakota","ND",3,99,"REP","LIB","Oliver",6260,1.7
+"Nebraska","NE",5,96,"REP","REP","Trump",551343,60.1
+"Nebraska","NE",5,96,"REP","DEM","Harris",353106,38.5
+"Nebraska","NE",5,96,"REP","LIB","Oliver",6113,0.7
+"Nebraska","NE",5,96,"REP","LMN","West",2884,0.3
+"Nebraska","NE",5,96,"REP","GRN","Stein",2705,0.3
+"New Hampshire","NH",4,99,"DEM","DEM","Harris",414951,50.8
+"New Hampshire","NH",4,99,"DEM","REP","Trump",392017,48
+"New Hampshire","NH",4,99,"DEM","LIB","Oliver",4357,0.5
+"New Hampshire","NH",4,99,"DEM","GRN","Stein",3574,0.4
+"New Jersey","NJ",14,91,"DEM","DEM","Harris",2096079,51.5
+"New Jersey","NJ",14,91,"DEM","REP","Trump",1892675,46.5
+"New Jersey","NJ",14,91,"DEM","GRN","Stein",35527,0.9
+"New Jersey","NJ",14,91,"DEM","IND","Kennedy",22145,0.5
+"New Jersey","NJ",14,91,"DEM","LIB","Oliver",9936,0.2
+"New Mexico","NM",5,99,"DEM","DEM","Harris",473468,51.7
+"New Mexico","NM",5,99,"DEM","REP","Trump",421006,46
+"New Mexico","NM",5,99,"DEM","IND","Kennedy",9482,1
+"New Mexico","NM",5,99,"DEM","GRN","Stein",4539,0.5
+"New Mexico","NM",5,99,"DEM","LIB","Oliver",3709,0.4
+"Nevada","NV",6,91,NA,"REP","Trump",680487,51.5
+"Nevada","NV",6,91,NA,"DEM","Harris",617341,46.7
+"Nevada","NV",6,91,NA,"NON","None of these candidates",15966,1.2
+"Nevada","NV",6,91,NA,"LIB","Oliver",4831,0.4
+"New York","NY",28,94,"DEM","DEM","Harris",4332116,55.4
+"New York","NY",28,94,"DEM","REP","Trump",3430797,43.9
+"Ohio","OH",17,96,"REP","REP","Trump",3116406,55.1
+"Ohio","OH",17,96,"REP","DEM","Harris",2479475,43.9
+"Ohio","OH",17,96,"REP","LIB","Oliver",27417,0.5
+"Oklahoma","OK",7,99,"REP","REP","Trump",1035219,66.2
+"Oklahoma","OK",7,99,"REP","DEM","Harris",499043,31.9
+"Oklahoma","OK",7,99,"REP","IND","Kennedy",15992,1
+"Oklahoma","OK",7,99,"REP","LIB","Oliver",9184,0.6
+"Oregon","OR",8,78,"DEM","DEM","Harris",1011113,54.8
+"Oregon","OR",8,78,"DEM","REP","Trump",781006,42.4
+"Oregon","OR",8,78,"DEM","WTP","Kennedy",26180,1.4
+"Oregon","OR",8,78,"DEM","GRN","Stein",13093,0.7
+"Oregon","OR",8,78,"DEM","LIB","Oliver",6805,0.4
+"Oregon","OR",8,78,"DEM","PRG","West",3731,0.2
+"Pennsylvania","PA",19,98,"REP","REP","Trump",3473325,50.4
+"Pennsylvania","PA",19,98,"REP","DEM","Harris",3339559,48.5
+"Pennsylvania","PA",19,98,"REP","GRN","Stein",33569,0.5
+"Pennsylvania","PA",19,98,"REP","LIB","Oliver",32709,0.5
+"Rhode Island","RI",4,97,"DEM","DEM","Harris",281224,55.7
+"Rhode Island","RI",4,97,"DEM","REP","Trump",212908,42.1
+"Rhode Island","RI",4,97,"DEM","IND","Kennedy",5004,1
+"Rhode Island","RI",4,97,"DEM","GRN","Stein",2828,0.6
+"Rhode Island","RI",4,97,"DEM","LIB","Oliver",1601,0.3
+"South Carolina","SC",9,98,"REP","REP","Trump",1479046,58.2
+"South Carolina","SC",9,98,"REP","DEM","Harris",1024728,40.3
+"South Carolina","SC",9,98,"REP","LIB","Oliver",12629,0.5
+"South Carolina","SC",9,98,"REP","GRN","Stein",8070,0.3
+"South Carolina","SC",9,98,"REP","UNC","West",6725,0.3
+"South Dakota","SD",3,99,"REP","REP","Trump",276125,63.8
+"South Dakota","SD",3,99,"REP","DEM","Harris",146699,33.9
+"South Dakota","SD",3,99,"REP","IND","Kennedy",7194,1.7
+"South Dakota","SD",3,99,"REP","LIB","Oliver",2770,0.6
+"Tennessee","TN",11,96,"REP","REP","Trump",1966828,64.1
+"Tennessee","TN",11,96,"REP","DEM","Harris",1055327,34.4
+"Tennessee","TN",11,96,"REP","IND","Kennedy",21890,0.7
+"Tennessee","TN",11,96,"REP","GRN","Stein",8955,0.3
+"Texas","TX",40,99,"REP","REP","Trump",6375353,56.2
+"Texas","TX",40,99,"REP","DEM","Harris",4806358,42.4
+"Texas","TX",40,99,"REP","GRN","Stein",82295,0.7
+"Texas","TX",40,99,"REP","LIB","Oliver",68269,0.6
+"Utah","UT",6,70,"REP","REP","Trump",659377,60.6
+"Utah","UT",6,70,"REP","DEM","Harris",401671,36.9
+"Utah","UT",6,70,"REP","LIB","Oliver",9486,0.9
+"Utah","UT",6,70,"REP","GRN","Stein",4564,0.4
+"Utah","UT",6,70,"REP","UNA","West",1290,0.1
+"Virginia","VA",13,97,"DEM","DEM","Harris",2227821,51.7
+"Virginia","VA",13,97,"DEM","REP","Trump",2003617,46.5
+"Virginia","VA",13,97,"DEM","GRN","Stein",32170,0.7
+"Virginia","VA",13,97,"DEM","LIB","Oliver",18775,0.4
+"Virginia","VA",13,97,"DEM","IND","West",8606,0.2
+"Vermont","VT",3,99,"DEM","DEM","Harris",235705,64.3
+"Vermont","VT",3,99,"DEM","REP","Trump",119366,32.6
+"Vermont","VT",3,99,"DEM","WTP","Kennedy",5901,1.6
+"Vermont","VT",3,99,"DEM","LIB","Oliver",1827,0.5
+"Vermont","VT",3,99,"DEM","PJP","West",1560,0.4
+"Washington","WA",12,71,"DEM","DEM","Harris",1694782,58.5
+"Washington","WA",12,71,"DEM","REP","Trump",1130757,39
+"Washington","WA",12,71,"DEM","WTP","Kennedy",33680,1.2
+"Washington","WA",12,71,"DEM","GRN","Stein",16348,0.6
+"Washington","WA",12,71,"DEM","LIB","Oliver",9955,0.3
+"Washington","WA",12,71,"DEM","JFA","West",4004,0.1
+"Wisconsin","WI",10,99,"REP","REP","Trump",1697237,49.6
+"Wisconsin","WI",10,99,"REP","DEM","Harris",1668757,48.8
+"Wisconsin","WI",10,99,"REP","WTP","Kennedy",17743,0.5
+"Wisconsin","WI",10,99,"REP","GRN","Stein",12293,0.4
+"Wisconsin","WI",10,99,"REP","LIB","Oliver",10415,0.3
+"Wisconsin","WI",10,99,"REP","JFA","West",2723,0.1
+"West Virginia","WV",4,99,"REP","REP","Trump",527704,70.1
+"West Virginia","WV",4,99,"REP","DEM","Harris",210223,27.9
+"West Virginia","WV",4,99,"REP","IND","Kennedy",8842,1.2
+"West Virginia","WV",4,99,"REP","LIB","Oliver",2995,0.4
+"West Virginia","WV",4,99,"REP","GRN","Stein",2482,0.3
+"Wyoming","WY",3,99,"REP","REP","Trump",192576,71.6
+"Wyoming","WY",3,99,"REP","DEM","Harris",69508,25.9
+"Wyoming","WY",3,99,"REP","LIB","Oliver",4191,1.6
