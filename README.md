@@ -1,3 +1,3 @@
 # 2024 US election results
 
-The data were extracted on Wednesday, 13 November at 10.40 a.m. CET.
+The data were extracted on Wednesday, 27 November at 20.45 a.m. CET.
